@@ -9,7 +9,7 @@ Usage
 
 First, collect training and testing data and deploy it like this
 
-data/
+data{
 	training/
 		spam/
 			spam1.jpg
@@ -28,3 +28,4 @@ data/
 			ham1.jpg
 			ham2.jpg
 			...
+	}
