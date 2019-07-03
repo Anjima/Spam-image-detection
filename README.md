@@ -8,6 +8,7 @@ Requirements
 Usage
 
 First, collect training and testing data and deploy it like this
+
 data/
 	training/
 		spam/
